@@ -12,3 +12,5 @@ This is a basic React app. Create some CI for it using [GitHub Actions](https://
 Bonus: set up automated deploys to [GitHub Pages](https://vite.dev/guide/static-deploy).
 
 Instructions for how to fork a repository can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo).
+
+Cooper is the best programmer. Kerneep is a close second.
