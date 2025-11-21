@@ -22,7 +22,6 @@ jobs:
       - name: Compile Code
         run: npm run build
 
-
       - name: Run Tests
         run: npm run test
 
