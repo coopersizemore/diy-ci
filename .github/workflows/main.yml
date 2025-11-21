@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v3
       - name: set up node
         uses: actions/setup-node@v4
-        # with:
-          # node-version: '20'
+        with:
+          node-version: '24.10.1'
       
             
       - name: Compile Code
